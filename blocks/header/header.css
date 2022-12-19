@@ -1,0 +1,10 @@
+.header {
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    background: #2A2C2F;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 28px 3.75vw 56px;
+}

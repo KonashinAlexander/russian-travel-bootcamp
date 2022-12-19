@@ -1,0 +1,19 @@
+.footer {
+    margin: 0;
+    padding: 92px 3.75vw 24px;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    background: #2A2C2F;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+@media screen and (max-width: 425px) {
+    .footer {
+        display: block;
+    }
+    
+}
