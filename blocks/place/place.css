@@ -18,7 +18,7 @@
 @media screen and (max-width: 500px) {
     .place {
         margin: 100px 0;
-        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     }
     
 } 
