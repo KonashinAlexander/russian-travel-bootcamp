@@ -24,6 +24,5 @@
 Проект опубликован на GitHubPages и находится по ссылке ниже.
 * [Ссылка на проект в GitHub Pages](https://konashinalexander.github.io/russian-travel-bootcamp/)
 
-
 ### Планы по доработке
 1. В соответсвии с комментариями ревьюера.
