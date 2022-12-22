@@ -1,6 +1,6 @@
 .lead {
    margin: 0;
-   padding: 0 11.6vw;
+   padding: 0 11.6%;
    display: flex;
    flex-direction: column;
    align-items: center;
@@ -9,7 +9,7 @@
 
 @media screen and (max-width: 1024px) {
    .lead {
-      padding: 0 4.7vw;
+      padding: 0 4.7%;
    }
 }
 

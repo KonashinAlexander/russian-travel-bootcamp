@@ -1,26 +1,26 @@
 .intro {
     
     margin: 0;
-    padding: 92px 31.4vw 0 11.6vw;
+    padding: 92px 31.4% 0 11.6%;
 }
 
 @media screen and (max-width: 1024px) {
     .intro {
-        padding: 92px 28vw 0 4.7vw;
+        padding: 92px 28% 0 4.7%;
     }
     
 }
 
 @media screen and (max-width: 768px) {
     .intro {
-        padding: 92px 3.75vw 0;
+        padding: 92px 3.5% 0;
     }
     
 }
 
 @media screen and (max-width: 425px) {
     .intro {
-        padding: 64px 3.75vw 0;
+        padding: 64px 3.5% 0;
     }
     
 }

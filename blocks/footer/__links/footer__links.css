@@ -8,7 +8,7 @@
         
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
     .footer__links {
         display: block;
         padding: 0;
