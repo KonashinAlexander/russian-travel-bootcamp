@@ -4,9 +4,15 @@
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-style: normal;
     justify-items: flex-end;
-    align-items: flex-end;
     font-weight: 400;
     font-size: 14px;
     line-height: 114%;
     text-align: right;
+}
+
+@media screen and (max-width:320px) {
+    .footer__copiright {
+        padding-top: 48px;
+    }
+    
 }

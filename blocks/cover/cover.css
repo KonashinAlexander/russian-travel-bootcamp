@@ -1,33 +1,25 @@
 .cover {
-    margin: 0 3.75%;
-    min-width: 317px;
-    min-height: 740px;
-    background-image: url(./__image/cover-trains.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-blend-mode: overlay;
-    background-color: rgba(42, 44, 47, .3);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    
-    
-}
-
-.cover:hover {    
-    background-color: rgba(42, 44, 47, .8);
+    margin: 0;
+    padding: 92px 48px;
 }
 
 @media screen and (max-width: 1024px) {
     .cover {
-        min-height: 640px;
+        padding: 92px 0;
     }
+    
 }
 
 @media screen and (max-width: 768px) {
     .cover {
-        margin: 0;
-        min-height: 63vw;
+        padding-bottom: 90px;
     }
+    
+}
+
+@media screen and (max-width: 320px) {
+    .cover {
+        padding: 66px 0 64px;
+    }
+    
 }
